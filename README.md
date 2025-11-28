@@ -150,7 +150,7 @@ To write a Python program that checks whether a given number is a **palindrome**
    - If equal, print that the number is a palindrome.
    - Else, print that it is not a palindrome.
 
-## 🧾 Program
+##  Program
 ```
 num=int(input())
 rev=0
